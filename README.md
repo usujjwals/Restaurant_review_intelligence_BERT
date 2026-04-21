@@ -1,4 +1,4 @@
-# Restaurant Review Intelligence: NLP & Sentiment Analysis
+# Restaurant Review Intelligence: Sentiment Analysis, Topic Modelling, & Time Series Analysis
 
 This project analyzes competitor restaurant reviews in the Sacramento fried chicken market using **NLP, sentiment analysis, topic modeling, EDA, and time series analysis**. The main goal was to turn customer review text into actionable business insights for market positioning and competitive benchmarking.
 
